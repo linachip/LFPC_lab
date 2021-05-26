@@ -1,0 +1,6 @@
+S->LdX
+X->D
+L->ca|aL
+D->bE
+E->Y|@
+Y->ebY|@

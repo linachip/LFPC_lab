@@ -1,0 +1,4 @@
+S->LdX
+X->D
+L->ca|aL
+D->b|Deb
